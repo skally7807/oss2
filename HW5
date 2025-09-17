@@ -1,0 +1,14 @@
+commit 5: "delete b.md"
+structure:
+oss/
+    a.md
+    c.md
+
+
+files:
+# a.md
+hanyang
+university
+
+# c.md
+red
